@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://mern-task-app-api-g320.onrender.com",
+      "https://mern-task-app-api-qe2f.onrender.com",
     ],
   })
 );
